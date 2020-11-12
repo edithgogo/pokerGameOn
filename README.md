@@ -9,6 +9,8 @@ The rules of game are:
 (5) When given the chance to be delt a new card, the player can decide if he/she is going to get a new card.
 (6) Cards' suits do not matter here.
 
-Several versions of the game are provided: (1) one human player vs. one computer player (2) two human players.
+Two versions of the game are provided: (1) one human player vs. one computer player (2) two human players.
 
-For the first version, go to the file "humanVersusComputer"; for the second, go to "humanVersusHuman" (still under progress).
+For the first version, download the files, SmartPlayer, SmartBlackJack, Card, and Deck, and then import the files into a new project in your Java IDE and run SmartBlackJack.
+
+The second version is still in progress.
